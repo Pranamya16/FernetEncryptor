@@ -117,7 +117,7 @@ This tool is intended for educational purposes and personal use. Always ensure y
 
 Pranamya Deshpande
 
-Project Link: [https://github.com/yourusername/text-encryption-program](https://github.com/Pranamya16/FernetEncryptor)
+Project Link: (https://github.com/Pranamya16/FernetEncryptor)
 
 ## Acknowledgments
 
