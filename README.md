@@ -20,8 +20,8 @@ A secure Python-based text encryption tool using the Fernet symmetric encryption
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/text-encryption-program.git
-cd text-encryption-program
+git clone https://github.com/Pranamya16/FernetEncryptor.git
+cd FernetEncryptor
 ```
 
 2. Install required dependencies:
@@ -115,9 +115,9 @@ This tool is intended for educational purposes and personal use. Always ensure y
 
 ## Author
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Pranamya Deshpande
 
-Project Link: [https://github.com/yourusername/text-encryption-program](https://github.com/yourusername/text-encryption-program)
+Project Link: [https://github.com/yourusername/text-encryption-program](https://github.com/Pranamya16/FernetEncryptor)
 
 ## Acknowledgments
 
