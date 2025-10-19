@@ -9,8 +9,7 @@ Thank you for considering contributing to this project!
 
 2. **Clone Your Fork**
 ```bash
-   git clone https://github.com/yourusername/text-encryption-program.git
-```
+   git clone https://github.com/Pranamya16/FernetEncryptor.git
 
 3. **Create a Branch**
 ```bash
