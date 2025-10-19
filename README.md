@@ -74,7 +74,7 @@ gAAAAABmX9k2J...
 ## Project Structure
 
 ```
-text-encryption-program/
+FernetEncryptor/
 ├── code.py    # Main program file
 ├── requirements.txt     # Python dependencies
 ├── README.md           # This file
