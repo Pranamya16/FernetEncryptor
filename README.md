@@ -75,7 +75,7 @@ gAAAAABmX9k2J...
 
 ```
 text-encryption-program/
-├── text_encryptor.py    # Main program file
+├── code.py    # Main program file
 ├── requirements.txt     # Python dependencies
 ├── README.md           # This file
 ├── LICENSE             # License information
